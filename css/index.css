@@ -208,14 +208,22 @@ footer nav a {
     margin: auto auto;
 }
 
-.middlepics{
+.middlepics .bottompics{
     display: flex;
     flex-flow: row;
     width: 800px;
     margin: auto auto;
 }
 
-.bottompics{
+
+
+.midtext {
+    display: flex;
+    flex-flow: row;
+    width: 800px;
+    margin: auto auto;
+}
+.bottomtext{
     display: flex;
     flex-flow: row;
     width: 800px;
