@@ -51,6 +51,16 @@ table {
     box-sizing: border-box;
 }
 
+header nav {
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto auto;
+    padding: 20px 2%;
+    font-size: 14px;
+}
+
 html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
