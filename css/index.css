@@ -61,6 +61,11 @@ header nav {
     font-size: 14px;
 }
 
+header nav a {
+    text-decoration: none;
+    color: black;
+}
+
 html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
