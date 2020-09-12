@@ -70,14 +70,8 @@ header nav {
     padding: 20px 2%;
        
 }
-.jumbo-about{
-    width: 800px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: auto auto;
-    padding: 20px 2%;
-}
+
+
 
 header nav a {
     text-decoration: none;
