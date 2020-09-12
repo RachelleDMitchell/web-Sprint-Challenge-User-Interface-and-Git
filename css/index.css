@@ -214,18 +214,3 @@ footer nav a {
     width: 800px;
     margin: auto auto;
 }
-
-
-
-.midtext {
-    display: flex;
-    flex-flow: row;
-    width: 800px;
-    margin: auto auto;
-}
-.bottomtext{
-    display: flex;
-    flex-flow: row;
-    width: 800px;
-    margin: auto auto;
-}
