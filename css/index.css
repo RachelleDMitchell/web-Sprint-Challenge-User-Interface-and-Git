@@ -201,10 +201,23 @@ footer nav a {
 }
 
 
-.about{
-    width: 60%;
+.container-about-page{
     display: flex;
-    align-content: center;
-    justify-content: center;
+    flex-flow: row wrap;
+    width: 800px;
+    margin: auto auto;
+}
+
+.middlepics{
+    display: flex;
+    flex-flow: row;
+    width: 800px;
+    margin: auto auto;
+}
+
+.bottompics{
+    display: flex;
+    flex-flow: row;
+    width: 800px;
     margin: auto auto;
 }
