@@ -216,7 +216,7 @@ footer nav a {
     flex-wrap: wrap;
     border-bottom: 2px dashed black;
     padding: 20px;
-    margin-bottom: 50px;
+    margin: 20px;
   
 }
 
@@ -254,4 +254,9 @@ footer nav a {
     padding: 5px;
     margin: 15px 0;
  
+}
+.bottom-text-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 25px;
 }
