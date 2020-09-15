@@ -214,7 +214,7 @@ footer nav a {
     width: 800px;
     display: flex;
     flex-wrap: wrap;
-    border-bottom: 2px dashed black;
+    border-bottom: 1px dashed black;
     padding: 20px;
     margin: 20px;
   
@@ -232,6 +232,8 @@ footer nav a {
     flex: 34%;
     border-bottom: 1px dashed black;
     margin-bottom: 50px;
+    margin-left: 25px;
+    
     
 }
 .bottom-row{
@@ -239,7 +241,8 @@ footer nav a {
     flex: 34%;
     border-bottom: 1px dashed black;
     margin-bottom: 50px;
-   
+    margin-left: 25px;
+    
 }
 
 .about-container a{
@@ -256,7 +259,9 @@ footer nav a {
  
 }
 .bottom-text-container{
+    width: 800px;
     display: flex;
     flex-wrap: wrap;
-    margin: 25px;
+    padding: 20px;
+    margin-bottom: 50px; 
 }
