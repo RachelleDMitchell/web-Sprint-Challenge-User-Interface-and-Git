@@ -230,4 +230,11 @@ footer nav a {
     border-bottom: 1px dashed black;
 }
 
-
+.about-container a{
+   
+    border: 2px solid black;
+    border-radius: 5%;
+    color: black;
+    text-decoration: none;
+    padding: 3px;
+}
